@@ -18,9 +18,9 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE,
 
 I have included below all of the code, data sources and intermediate steps for Assignment 2.
 
-Original unprocessed datasets are available: https://github.com/kmacintosh/syrian-refugees/tree/master/data.
+Original unprocessed datasets are available: [https://github.com/kmacintosh/syrian-refugees/tree/master/data](https://github.com/kmacintosh/syrian-refugees/tree/master/data).
 
-Intermediate datasets are available here: https://github.com/kmacintosh/syrian-refugees/tree/master/output.
+Intermediate datasets are available here: [https://github.com/kmacintosh/syrian-refugees/tree/master/output](https://github.com/kmacintosh/syrian-refugees/tree/master/output).
 
 ## UNHCR Visualization Effectiveness
 
