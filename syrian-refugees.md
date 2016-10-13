@@ -11,17 +11,17 @@ Original unprocessed datasets are available at [https://github.com/kmacintosh/sy
 
 Intermediate datasets are available here [https://github.com/kmacintosh/syrian-refugees/tree/master/output](https://github.com/kmacintosh/syrian-refugees/tree/master/output).
 
-## UNHCR Visualization Effectiveness
+## Question 1. UNHCR Visualization Effectiveness
 
-I think the interactive visualization is effective in a few ways, but it also doesn’t answer some of the questions I am interested in. 
+>I think the interactive visualization is effective in a few ways, but it also doesn’t answer some of the questions I am interested in. 
 
-Overall, the visualization is pleasing to the eye, balanced and has good visual hierarchy. I think the start screen is very effective. Before you’ve even clicked on anything, it tells the user what the variables are, what they can display and filter for and generally how to operate the visualization. The start screen itself is semi-transparent, allowing the user to take in the map elements, with instruction, without getting overwhelmed by all the elements. To me, at first, this seemed like a minor and inconsequential thing, but upon further reflection I think that without it the map would be more difficult to navigate and I think the map user would be more likely overwhelmed and shut down. 
+>Overall, the visualization is pleasing to the eye, balanced and has good visual hierarchy. I think the start screen is very effective. Before you’ve even clicked on anything, it tells the user what the variables are, what they can display and filter for and generally how to operate the visualization. The start screen itself is semi-transparent, allowing the user to take in the map elements, with instruction, without getting overwhelmed by all the elements. To me, at first, this seemed like a minor and inconsequential thing, but upon further reflection I think that without it the map would be more difficult to navigate and I think the map user would be more likely overwhelmed and shut down. 
 
-I also like the detailed definition of the variables they are mapping, giving the audience the specific conventions that define the terms. Additionally, each term is accompanied by a colour-coded sidebar relating it to its representative colour on the map. This is very effective. Without this, the dense text would be more onerous to get through. Being able to visually associate it with the spatial visualization helps to parse the information more efficiently. 
+>I also like the detailed definition of the variables they are mapping, giving the audience the specific conventions that define the terms. Additionally, each term is accompanied by a colour-coded sidebar relating it to its representative colour on the map. This is very effective. Without this, the dense text would be more onerous to get through. Being able to visually associate it with the spatial visualization helps to parse the information more efficiently. 
 
-The pie chart/proportional circle symbolization is appropriate and the transparency of the symbols manages to limit cluttering of overlapping circles. 
+>The pie chart/proportional circle symbolization is appropriate and the transparency of the symbols manages to limit cluttering of overlapping circles. 
 
-For the data that this visualization displays, it is effective. I would like to be see more, however, knowing how much data they have; for instance, the breakdown by country of ‘Persons of Concern’ within a country. For the level of detail and effectiveness of the visualization, it does seem that the available visualization are somewhat basic.
+>For the data that this visualization displays, it is effective. I would like to be see more, however, knowing how much data they have; for instance, the breakdown by country of ‘Persons of Concern’ within a country. For the level of detail and effectiveness of the visualization, it does seem that the available visualization are somewhat basic.
 
 # Load R packages
 
@@ -37,7 +37,20 @@ library(countrycode)
 
 # Data sources
 
-## UNHCR refugee data
+## UNHCR refugee data  
+
+**This was the primary dataset I worked with.** I downloaded the entire dataset to work with in R and first looked at all of it to see where I might find patterns. I manipulated the data in the following ways:
+
+* Merged 'Convention' & 'Non-Convention' RSD statuses into one column. Upon researching the difference, it seems 'Convention' refers to a specific convention, but both are still 'Refugee' Statuses.
+* Merged 'Rejected' and 'Otherwise Closed' into one column
+* Filtered for countries that recognized over 100 refugees across all years and gave each country a rank
+* Determined the right RSD type by country: each country seemed to have either a G/FI status or U/FI status, or something special. I chose one per country, generally the most common and excluded any other cases if there were any.
+* For the redacted values, I converted them to 'NA'
+* Did some basic cleaning (e.g. converting everything to uppercase)
+
+Below is the first few lines of the dataset post-cleaning, etc.
+
+
 
 
 ```r
@@ -83,7 +96,21 @@ syrian_data <- syrian_data %>%
             rejected_closed = sum(rejected_closed, na.rm = TRUE),
             applied = sum(applied, na.rm = TRUE)) %>% 
   ungroup()
+
+knitr::kable(head(syrian_data))
 ```
+
+
+
+|country   | year| rank| total_decisions| total_recognized| rejected_closed| applied|
+|:---------|----:|----:|---------------:|----------------:|---------------:|-------:|
+|Argentina | 2009|   31|               1|                0|               1|       0|
+|Argentina | 2012|   31|              41|               40|               1|      50|
+|Argentina | 2013|   31|             119|              119|               0|     122|
+|Argentina | 2014|   31|              81|               74|               7|      91|
+|Argentina | 2015|   31|              83|               55|              28|     159|
+|Armenia   | 2007|   24|               0|                0|               0|       0|
+
 
 ## GDP and population from World Bank
 
@@ -222,7 +249,7 @@ ggplot(country_totals,
         text = element_text(family = "Helvetica Neue Light")) 
 ```
 
-![](figures/prop-refugees-by-destination-1.svg)<!-- -->
+![](figures/prop-refugees-by-destination-1.png)<!-- -->
 
 In addition, I need the total number of refugees accepted, and the proportion going to Canada, for each year. I'll put these numbers on the infographic in Illustrator.
 
@@ -277,7 +304,7 @@ ggplot(change_in_canada, aes(x = factor(year), y = total_recognized)) +
       text = element_text(family = "Helvetica Neue Light")) 
 ```
 
-![](figures/changing-canada-1.svg)<!-- -->
+![](figures/changing-canada-1.png)<!-- -->
 
 ## Comparing countries in 2016
 
@@ -306,7 +333,7 @@ refugees_2016 %>%
     guides(fill = "none")
 ```
 
-![](figures/unnamed-chunk-7-1.svg)<!-- -->
+![](figures/unnamed-chunk-7-1.png)<!-- -->
 
 ## Map of provinces accepting refugees
 
@@ -347,11 +374,14 @@ ggplot(can_prov_df) +
         text = element_text(family = "Helvetica Neue Light"))
 ```
 
-![](figures/unnamed-chunk-8-1.svg)<!-- -->
+![](figures/unnamed-chunk-8-1.png)<!-- -->
+
+
 
 # Final Infographic
 
-![](output/472_a2_final-01.svg)
+![](output/472_a2_port-01.png)
+
 
 # Acknowledgements
 
