@@ -1,0 +1,286 @@
+year,country,origin,rsd_type,pending_sy,psy_unhcr,applied,convention_status,nonconvention_status,rejected,otherwise_closed,total_decisions,pending_ey,pey_unhcr,total_recognized,rejected_closed,rank
+2007,United States,Syrian Arab Rep.,G / IN,20,0,29,10,0,21,1,32,18,0,10,22,16.0
+2007,Ukraine,Syrian Arab Rep.,G / FI,8,8,16,1,0,0,1,2,24,8,1,1,27.0
+2007,Turkey,Syrian Arab Rep.,U / FI,4,4,21,1,0,3,4,8,17,17,1,7,4.0
+2007,Sweden,Syrian Arab Rep.,G / FI,462,0,440,36,71,353,121,581,381,0,107,474,2.0
+2007,Poland,Syrian Arab Rep.,G / FI,3,0,6,0,0,5,0,5,4,0,0,5,30.0
+2007,Norway,Syrian Arab Rep.,G / FI,37,0,49,14,2,13,12,41,42,0,16,25,14.0
+2007,Netherlands,Syrian Arab Rep.,G / FI,0,0,36,6,20,57,164,247,0,0,26,221,5.0
+2007,Malaysia,Syrian Arab Rep.,U / FI,1,1,3,3,0,0,0,3,1,1,3,0,25.0
+2007,Malta,Syrian Arab Rep.,G / FI,0,0,1,0,0,1,0,1,0,0,0,1,21.0
+2007,Lebanon,Syrian Arab Rep.,U / FI,18,0,81,18,5,34,3,60,39,0,23,37,6.0
+2007,Italy,Syrian Arab Rep.,G / FI,0,0,27,13,11,3,0,27,0,0,24,3,22.0
+2007,Hungary,Syrian Arab Rep.,G / FI,14,14,48,0,1,30,5,36,26,26,1,35,28.0
+2007,Greece,Syrian Arab Rep.,G / FI,11,11,1311,0,0,927,3,930,392,0,0,930,23.0
+2007,United Kingdom,Syrian Arab Rep.,G / FI,0,0,185,31,12,113,32,188,0,0,43,145,10.0
+2007,France,Syrian Arab Rep.,G / FI,0,0,45,3,0,19,0,22,0,0,3,19,12.0
+2007,Finland,Syrian Arab Rep.,G / FI,12,0,8,0,6,5,5,16,5,0,6,10,26.0
+2007,Denmark,Syrian Arab Rep.,G / FI,7,0,71,13,8,9,0,30,38,0,21,9,7.0
+2007,Germany,Syrian Arab Rep.,G / NA,201,0,634,63,2,409,89,563,279,0,65,498,1.0
+2007,Czech Republic,Syrian Arab Rep.,G / FI,15,15,31,1,3,10,23,37,11,11,4,33,34.0
+2007,Cyprus,Syrian Arab Rep.,U / FI,0,0,1,0,0,0,1,1,0,0,0,1,32.0
+2007,Cyprus,Syrian Arab Rep.,G / FI,2363,0,1752,0,1,761,1517,2279,1836,0,1,2278,32.0
+2007,Switzerland,Syrian Arab Rep.,G / FI,117,0,290,22,79,87,19,207,299,0,101,106,9.0
+2007,Brazil,Syrian Arab Rep.,G / FI,1,1,1,0,0,1,0,1,1,1,0,1,17.0
+2007,Belgium,Syrian Arab Rep.,G / FI,0,0,199,66,0,258,28,352,0,0,66,286,11.0
+2007,Australia,Syrian Arab Rep.,G / FI,6,0,10,0,0,8,0,8,2,0,0,8,29.0
+2007,Armenia,Syrian Arab Rep.,G / FI,2,2,0,0,0,0,0,NA,2,2,0,0,24.0
+2008,United States,Syrian Arab Rep.,G / IN,20,0,33,17,0,21,7,45,12,0,17,28,16.0
+2008,Ukraine,Syrian Arab Rep.,G / FI,24,8,29,3,0,18,5,26,28,5,3,23,27.0
+2008,Turkey,Syrian Arab Rep.,U / FI,17,17,20,6,0,11,2,19,18,18,6,13,4.0
+2008,Thailand,Syrian Arab Rep.,U / FI,0,0,1,0,0,0,0,NA,1,1,0,0,35.0
+2008,Sweden,Syrian Arab Rep.,G / FI,381,0,551,36,27,411,45,519,339,0,63,456,2.0
+2008,Russian Federation,Syrian Arab Rep.,G / FI,0,0,18,0,0,14,0,14,4,4,0,14,13.0
+2008,Poland,Syrian Arab Rep.,G / FI,3,0,8,0,0,2,2,4,4,0,0,4,30.0
+2008,Norway,Syrian Arab Rep.,G / FI,42,0,115,5,9,35,26,75,88,0,14,61,14.0
+2008,Netherlands,Syrian Arab Rep.,G / FI,0,0,48,4,5,62,0,71,0,0,9,62,5.0
+2008,Malaysia,Syrian Arab Rep.,U / FI,1,1,0,0,0,0,1,1,0,0,0,1,25.0
+2008,Malta,Syrian Arab Rep.,G / FI,0,0,1,0,0,1,0,1,0,0,0,1,21.0
+2008,Lebanon,Syrian Arab Rep.,U / FI,39,0,82,34,0,19,2,55,66,0,34,21,6.0
+2008,Jordan,Syrian Arab Rep.,U / FI,60,60,139,21,0,5,62,88,111,111,21,67,8.0
+2008,Italy,Syrian Arab Rep.,G / FI,0,0,55,10,17,6,1,34,0,0,27,7,22.0
+2008,Hungary,Syrian Arab Rep.,G / FI,26,26,16,1,1,4,5,11,31,31,2,9,28.0
+2008,Greece,Syrian Arab Rep.,G / FI,392,0,808,0,0,1072,1,1073,127,0,0,1073,23.0
+2008,United Kingdom,Syrian Arab Rep.,G / FI,0,0,182,20,10,84,20,134,0,0,30,104,10.0
+2008,France,Syrian Arab Rep.,G / FI,0,0,32,19,1,24,0,44,0,0,20,24,12.0
+2008,Finland,Syrian Arab Rep.,G / FI,5,0,24,0,4,4,5,13,15,0,4,9,26.0
+2008,Spain,Syrian Arab Rep.,G / FI,0,0,97,13,1,69,46,129,0,0,14,115,20.0
+2008,Denmark,Syrian Arab Rep.,G / FI,38,0,105,43,13,6,0,62,30,0,56,6,7.0
+2008,Germany,Syrian Arab Rep.,G / NA,279,0,775,68,6,280,122,476,587,0,74,402,1.0
+2008,Czech Republic,Syrian Arab Rep.,G / FI,11,11,36,2,2,4,7,15,32,32,4,11,34.0
+2008,Cyprus,Syrian Arab Rep.,G / FI,1836,0,963,0,1,1042,1005,2048,751,0,1,2047,32.0
+2008,Switzerland,Syrian Arab Rep.,G / FI,299,0,388,57,180,171,51,459,466,0,237,222,9.0
+2008,Canada,Syrian Arab Rep.,G / FI,88,0,70,16,0,4,5,25,133,0,16,9,19.0
+2008,Brazil,Syrian Arab Rep.,G / FI,1,1,0,0,0,0,0,NA,1,1,0,0,17.0
+2008,Bulgaria,Syrian Arab Rep.,G / FI,0,0,20,1,0,14,1,16,4,0,1,15,3.0
+2008,Belgium,Syrian Arab Rep.,G / FI,0,0,281,82,0,157,7,246,0,0,82,164,11.0
+2008,Australia,Syrian Arab Rep.,G / FI,2,0,16,2,0,7,0,9,9,0,2,7,29.0
+2008,Armenia,Syrian Arab Rep.,G / FI,2,2,0,0,0,0,2,2,0,0,0,2,24.0
+2009,United States,Syrian Arab Rep.,G / IN,13,0,17,11,0,0,14,25,7,0,11,14,16.0
+2009,Ukraine,Syrian Arab Rep.,U / FI,0,0,8,5,0,3,0,8,0,0,5,3,27.0
+2009,Ukraine,Syrian Arab Rep.,G / FI,28,5,29,5,0,16,10,31,26,22,5,26,27.0
+2009,Turkey,Syrian Arab Rep.,U / FI,18,18,46,6,0,1,7,14,50,50,6,8,4.0
+2009,Thailand,Syrian Arab Rep.,U / FI,1,1,3,0,0,1,3,4,0,0,0,4,35.0
+2009,Sweden,Syrian Arab Rep.,G / FI,339,0,587,16,19,399,55,489,333,0,35,454,2.0
+2009,Russian Federation,Syrian Arab Rep.,G / FI,4,4,6,1,1,5,0,7,3,3,2,5,13.0
+2009,Poland,Syrian Arab Rep.,G / FI,10,0,7,0,0,12,6,18,3,0,0,18,30.0
+2009,Norway,Syrian Arab Rep.,G / FI,88,0,278,5,1,71,75,152,214,0,6,146,14.0
+2009,Netherlands,Syrian Arab Rep.,G / FI,0,0,101,10,16,68,0,94,98,0,26,68,5.0
+2009,Malta,Syrian Arab Rep.,G / FI,0,0,14,7,0,0,0,7,7,0,7,0,21.0
+2009,Lebanon,Syrian Arab Rep.,U / FI,66,0,84,22,0,41,3,66,84,0,22,44,6.0
+2009,Jordan,Syrian Arab Rep.,U / FI,111,111,164,97,0,17,37,151,124,124,97,54,8.0
+2009,Italy,Syrian Arab Rep.,G / FI,0,0,120,54,26,21,0,101,0,0,80,21,22.0
+2009,Greece,Syrian Arab Rep.,G / FI,127,0,965,0,0,891,8,899,0,0,0,899,23.0
+2009,United Kingdom,Syrian Arab Rep.,G / FI,0,0,184,42,8,135,20,205,0,0,50,155,10.0
+2009,France,Syrian Arab Rep.,G / FI,0,0,61,8,0,26,0,34,0,0,8,26,12.0
+2009,Finland,Syrian Arab Rep.,G / FI,15,0,36,0,2,8,9,19,31,0,2,17,26.0
+2009,Spain,Syrian Arab Rep.,G / FI,32,0,30,6,1,34,0,41,0,0,7,34,20.0
+2009,Denmark,Syrian Arab Rep.,G / FI,30,0,380,119,13,60,0,192,95,0,132,60,7.0
+2009,Germany,Syrian Arab Rep.,G / NA,587,0,819,97,10,428,109,644,743,0,107,537,1.0
+2009,Czech Republic,Syrian Arab Rep.,G / FI,31,31,54,0,0,20,18,38,47,47,0,38,34.0
+2009,Cyprus,Syrian Arab Rep.,G / FI,751,0,224,0,7,415,392,814,161,0,7,807,32.0
+2009,Switzerland,Syrian Arab Rep.,G / FI,466,0,400,67,51,265,125,508,446,0,118,390,9.0
+2009,Canada,Syrian Arab Rep.,G / FI,134,0,84,13,0,9,13,35,183,0,13,22,19.0
+2009,Bulgaria,Syrian Arab Rep.,G / FI,4,0,30,2,3,18,1,24,10,0,5,19,3.0
+2009,Belgium,Syrian Arab Rep.,G / FI,0,0,347,50,0,116,12,178,0,0,50,128,11.0
+2009,Australia,Syrian Arab Rep.,G / FI,9,0,11,5,0,10,11,26,5,0,5,21,29.0
+2009,Argentina,Syrian Arab Rep.,G / FI,1,0,0,0,0,1,0,1,0,0,0,1,31.0
+2010,United States,Syrian Arab Rep.,G / IN,9,0,36,14,0,1,20,35,10,0,14,21,16.0
+2010,Ukraine,Syrian Arab Rep.,U / FI,0,0,1,0,0,0,0,NA,1,1,0,0,27.0
+2010,Ukraine,Syrian Arab Rep.,G / FI,26,22,29,0,0,25,8,33,22,22,0,33,27.0
+2010,Turkey,Syrian Arab Rep.,U / FI,50,50,37,3,0,26,8,37,50,50,3,34,4.0
+2010,Thailand,Syrian Arab Rep.,U / FI,0,0,1,0,0,0,0,NA,1,1,0,0,35.0
+2010,Sweden,Syrian Arab Rep.,G / FI,333,0,421,50,61,241,28,380,247,0,111,269,2.0
+2010,Russian Federation,Syrian Arab Rep.,G / FI,1,1,3,0,0,3,0,3,1,1,0,3,13.0
+2010,Poland,Syrian Arab Rep.,G / FI,3,0,8,0,0,0,0,NA,8,0,0,0,30.0
+2010,Norway,Syrian Arab Rep.,G / FI,214,0,119,23,14,156,51,244,84,0,37,207,14.0
+2010,Netherlands,Syrian Arab Rep.,G / FI,98,0,125,10,36,93,0,139,133,0,46,93,5.0
+2010,Malaysia,Syrian Arab Rep.,U / FI,1,1,5,0,0,0,1,1,5,5,0,1,25.0
+2010,Malta,Syrian Arab Rep.,G / FI,7,0,12,14,1,3,0,18,1,0,15,3,21.0
+2010,Lebanon,Syrian Arab Rep.,U / FI,84,84,201,19,1,50,88,158,127,127,20,138,6.0
+2010,Jordan,Syrian Arab Rep.,U / FI,124,124,245,68,0,38,22,128,241,241,68,60,8.0
+2010,Italy,Syrian Arab Rep.,G / FI,0,0,48,23,1,29,0,53,29,0,24,29,22.0
+2010,Hungary,Syrian Arab Rep.,G / FI,3,3,23,2,0,9,7,18,8,8,2,16,28.0
+2010,Greece,Syrian Arab Rep.,G / FI,0,0,167,0,2,99,28,129,0,0,2,127,23.0
+2010,United Kingdom,Syrian Arab Rep.,G / FI,0,0,160,36,4,135,31,206,0,0,40,166,10.0
+2010,France,Syrian Arab Rep.,G / FI,0,0,192,27,0,85,0,112,0,0,27,85,12.0
+2010,Finland,Syrian Arab Rep.,G / FI,31,0,41,1,6,12,16,35,23,0,7,28,26.0
+2010,Spain,Syrian Arab Rep.,G / FI,0,0,19,2,0,21,2,25,12,0,2,23,20.0
+2010,Denmark,Syrian Arab Rep.,G / FI,95,0,821,327,11,250,0,588,328,0,338,250,7.0
+2010,Germany,Syrian Arab Rep.,G / NA,743,0,1490,230,24,1066,119,1439,793,0,254,1185,1.0
+2010,Czech Republic,Syrian Arab Rep.,G / FI,47,0,17,6,2,24,16,48,16,0,8,40,34.0
+2010,Cyprus,Syrian Arab Rep.,U / FI,0,0,3,0,0,0,3,3,0,0,0,3,32.0
+2010,Cyprus,Syrian Arab Rep.,G / FI,161,0,144,0,14,202,0,216,89,0,14,202,32.0
+2010,Switzerland,Syrian Arab Rep.,G / FI,446,0,387,46,49,239,157,491,488,0,95,396,9.0
+2010,Canada,Syrian Arab Rep.,G / FI,183,0,126,56,0,26,6,88,221,0,56,32,19.0
+2010,Brazil,Syrian Arab Rep.,G / FI,0,0,1,0,0,1,0,1,0,0,0,1,17.0
+2010,Bulgaria,Syrian Arab Rep.,G / FI,10,0,52,0,5,19,8,32,30,0,5,27,3.0
+2010,Belgium,Syrian Arab Rep.,G / FI,0,0,374,98,0,150,8,256,0,0,98,158,11.0
+2010,Australia,Syrian Arab Rep.,G / FI,5,0,22,4,0,6,0,10,16,0,4,6,29.0
+2010,Armenia,Syrian Arab Rep.,G / FI,0,0,2,0,0,2,0,2,0,0,0,2,24.0
+2011,United States,Syrian Arab Rep.,G / IN,10,0,206,61,0,10,52,123,112,0,61,62,16.0
+2011,Ukraine,Syrian Arab Rep.,U / FI,1,1,7,0,0,8,0,8,0,0,0,8,27.0
+2011,Turkey,Syrian Arab Rep.,U / FI,50,50,188,13,0,5,30,48,190,190,13,35,4.0
+2011,Thailand,Syrian Arab Rep.,U / FI,1,1,9,0,0,1,1,2,8,8,0,2,35.0
+2011,Sweden,Syrian Arab Rep.,G / FI,247,0,640,91,57,334,16,498,287,0,148,350,2.0
+2011,Russian Federation,Syrian Arab Rep.,G / FI,1,1,31,0,0,0,24,24,8,8,0,24,13.0
+2011,Poland,Syrian Arab Rep.,G / FI,8,0,11,0,2,0,9,11,10,0,2,9,30.0
+2011,Norway,Syrian Arab Rep.,G / FI,84,0,198,3,5,52,51,111,179,0,8,103,14.0
+2011,Netherlands,Syrian Arab Rep.,G / FI,133,0,168,7,16,63,0,86,231,0,23,63,5.0
+2011,Malaysia,Syrian Arab Rep.,U / FI,5,5,14,4,0,0,7,11,8,8,4,7,25.0
+2011,Malta,Syrian Arab Rep.,G / FI,1,0,122,2,45,0,4,51,72,0,47,4,21.0
+2011,Lebanon,Syrian Arab Rep.,U / FI,127,127,338,60,0,44,51,155,310,310,60,95,6.0
+2011,Italy,Syrian Arab Rep.,G / FI,0,0,541,31,20,57,0,108,0,0,51,57,22.0
+2011,Hungary,Syrian Arab Rep.,G / FI,8,0,91,1,3,17,50,71,0,0,4,67,28.0
+2011,Greece,Syrian Arab Rep.,G / FI,0,0,352,3,1,146,42,192,0,0,4,188,23.0
+2011,United Kingdom,Syrian Arab Rep.,G / FI,42,0,508,141,6,192,21,360,196,0,147,213,10.0
+2011,France,Syrian Arab Rep.,G / FI,0,0,119,33,5,18,0,56,0,0,38,18,12.0
+2011,Finland,Syrian Arab Rep.,G / FI,23,0,109,6,27,6,9,48,75,0,33,15,26.0
+2011,Spain,Syrian Arab Rep.,G / FI,139,0,97,0,0,1,3,4,0,0,0,4,20.0
+2011,Denmark,Syrian Arab Rep.,G / FI,111,0,428,343,10,195,0,548,93,0,353,195,7.0
+2011,Germany,Syrian Arab Rep.,G / NA,793,0,2634,283,17,362,154,816,2590,0,300,516,1.0
+2011,Czech Republic,Syrian Arab Rep.,G / FI,0,0,23,0,9,0,0,9,0,0,9,0,34.0
+2011,Cyprus,Syrian Arab Rep.,G / FI,89,0,187,0,2,56,15,73,203,0,2,71,32.0
+2011,Switzerland,Syrian Arab Rep.,G / FI,488,0,688,115,215,42,203,575,996,0,330,245,9.0
+2011,Canada,Syrian Arab Rep.,G / FI,221,0,181,83,0,56,14,153,251,0,83,70,19.0
+2011,Brazil,Syrian Arab Rep.,G / FI,0,0,14,1,0,0,0,1,13,14,1,0,17.0
+2011,Belgium,Syrian Arab Rep.,G / FI,224,0,494,63,0,19,14,96,666,0,63,33,11.0
+2011,Australia,Syrian Arab Rep.,G / FI,16,0,96,27,0,20,0,47,57,0,27,20,29.0
+2011,Armenia,Syrian Arab Rep.,G / FI,0,0,6,6,0,0,0,6,0,0,6,0,24.0
+2012,United States,Syrian Arab Rep.,G / IN,116,0,647,316,0,21,89,426,367,0,316,110,16.0
+2012,Ukraine,Syrian Arab Rep.,G / FI,51,51,309,2,16,38,36,92,268,214,18,74,27.0
+2012,Turkey,Syrian Arab Rep.,U / FI,190,190,24,10,0,0,20,30,184,184,10,20,4.0
+2012,Thailand,Syrian Arab Rep.,U / FI,8,8,89,11,0,0,26,37,60,60,11,26,35.0
+2012,Sweden,Syrian Arab Rep.,G / FI,287,0,7814,1133,3643,47,218,5041,3463,0,4776,265,2.0
+2012,Russian Federation,Syrian Arab Rep.,G / FI,8,8,197,0,0,137,0,137,68,68,0,137,13.0
+2012,Poland,Syrian Arab Rep.,G / FI,10,0,107,0,6,0,24,30,83,0,6,24,30.0
+2012,Norway,Syrian Arab Rep.,G / FI,179,0,327,56,188,12,57,313,221,0,244,69,14.0
+2012,Netherlands,Syrian Arab Rep.,G / FI,231,0,454,46,538,48,0,632,231,0,584,48,5.0
+2012,Malaysia,Syrian Arab Rep.,U / FI,8,8,76,0,0,0,1,1,83,83,0,1,25.0
+2012,Malta,Syrian Arab Rep.,G / FI,72,0,147,1,113,0,6,120,139,0,114,6,21.0
+2012,Moldova,Syrian Arab Rep.,G / FI,10,10,73,12,33,0,5,50,33,33,45,5,33.0
+2012,Lebanon,Syrian Arab Rep.,U / FI,310,310,138,33,0,3,230,266,182,182,33,233,6.0
+2012,Italy,Syrian Arab Rep.,G / FI,0,0,354,98,103,28,0,229,507,0,201,28,22.0
+2012,Hungary,Syrian Arab Rep.,G / FI,0,0,145,1,44,15,75,135,0,0,45,90,28.0
+2012,Greece,Syrian Arab Rep.,G / FI,0,0,275,0,1,150,113,264,0,0,1,263,23.0
+2012,United Kingdom,Syrian Arab Rep.,G / FI,196,0,1289,868,51,195,62,1176,313,0,919,257,10.0
+2012,France,Syrian Arab Rep.,G / FI,0,0,629,126,117,21,0,264,0,0,243,21,12.0
+2012,Finland,Syrian Arab Rep.,G / FI,75,0,180,71,71,0,28,170,110,0,142,28,26.0
+2012,Spain,Syrian Arab Rep.,G / FI,100,0,255,0,0,15,0,15,320,0,0,15,20.0
+2012,Denmark,Syrian Arab Rep.,G / FI,93,0,907,606,55,81,0,742,56,0,661,81,7.0
+2012,Germany,Syrian Arab Rep.,G / NA,2590,0,6201,1708,3522,9,268,5507,3286,0,5230,277,1.0
+2012,Czech Republic,Syrian Arab Rep.,G / FI,26,0,68,0,22,0,8,30,70,0,22,8,34.0
+2012,Cyprus,Syrian Arab Rep.,G / FI,203,0,564,1,1,9,55,66,701,0,2,64,32.0
+2012,Switzerland,Syrian Arab Rep.,G / FI,996,0,1146,184,206,8,212,610,1665,0,390,220,9.0
+2012,Canada,Syrian Arab Rep.,G / FI,251,0,350,155,0,34,7,196,404,0,155,41,19.0
+2012,Brazil,Syrian Arab Rep.,G / FI,22,14,81,36,0,0,0,36,67,58,36,0,17.0
+2012,Belgium,Syrian Arab Rep.,G / FI,666,0,798,128,468,2,32,630,938,0,596,34,11.0
+2012,Australia,Syrian Arab Rep.,G / FI,57,0,141,117,0,11,0,128,70,0,117,11,29.0
+2012,Armenia,Syrian Arab Rep.,G / FI,0,0,496,130,0,0,26,156,340,340,130,26,24.0
+2012,Argentina,Syrian Arab Rep.,G / FI,0,0,50,40,0,0,1,41,9,0,40,1,31.0
+2013,United States,Syrian Arab Rep.,G / IN,370,0,1468,576,0,55,137,768,1192,0,576,192,16.0
+2013,Ukraine,Syrian Arab Rep.,G / FI,268,214,367,8,99,105,20,232,403,356,107,125,27.0
+2013,Turkey,Syrian Arab Rep.,U / FI,184,184,108,100,0,0,92,192,100,100,100,92,4.0
+2013,Thailand,Syrian Arab Rep.,U / FI,60,60,155,35,0,0,36,71,144,144,35,36,35.0
+2013,Sweden,Syrian Arab Rep.,G / FI,3463,0,16317,1921,9608,32,671,12232,6474,0,11529,703,2.0
+2013,Russian Federation,Syrian Arab Rep.,G / FI,68,68,1073,0,0,710,74,784,357,357,0,784,13.0
+2013,Romania,Syrian Arab Rep.,G / FI,10,10,1014,311,507,127,33,978,91,91,818,160,18.0
+2013,Poland,Syrian Arab Rep.,G / FI,83,0,248,69,20,1,149,239,100,0,89,150,30.0
+2013,Norway,Syrian Arab Rep.,G / FI,0,0,841,278,413,12,163,866,224,0,691,175,14.0
+2013,Netherlands,Syrian Arab Rep.,G / FI,0,0,2673,62,2010,299,2,2373,0,0,2072,301,5.0
+2013,Malaysia,Syrian Arab Rep.,U / FI,83,83,754,100,0,0,17,117,720,720,100,17,25.0
+2013,Malta,Syrian Arab Rep.,G / FI,139,0,247,412,171,1,21,605,102,0,583,22,21.0
+2013,Moldova,Syrian Arab Rep.,G / FI,33,33,85,8,78,1,4,91,27,27,86,5,33.0
+2013,Lebanon,Syrian Arab Rep.,U / FI,182,182,547,408,0,0,0,408,321,321,408,0,6.0
+2013,Italy,Syrian Arab Rep.,G / FI,507,0,634,246,149,383,0,778,278,0,395,383,22.0
+2013,Hungary,Syrian Arab Rep.,G / FI,38,0,934,73,54,47,554,728,184,0,127,601,28.0
+2013,Greece,Syrian Arab Rep.,G / FI,0,0,482,44,61,70,126,301,491,0,105,196,23.0
+2013,United Kingdom,Syrian Arab Rep.,G / FI,389,0,2020,1444,11,110,175,1740,641,0,1455,285,10.0
+2013,France,Syrian Arab Rep.,G / FI,0,0,1303,474,361,46,0,881,279,0,835,46,12.0
+2013,Finland,Syrian Arab Rep.,G / FI,110,0,148,67,78,0,37,182,77,0,145,37,26.0
+2013,Spain,Syrian Arab Rep.,G / FI,320,0,725,4,146,2,0,152,743,0,150,2,20.0
+2013,Denmark,Syrian Arab Rep.,G / FI,56,0,1710,1005,291,56,0,1352,77,0,1296,56,7.0
+2013,Germany,Syrian Arab Rep.,G / NA,3286,0,11851,2726,5465,8,369,8568,6497,0,8191,377,1.0
+2013,Czech Republic,Syrian Arab Rep.,G / FI,63,0,67,4,98,1,10,113,25,0,102,11,34.0
+2013,Cyprus,Syrian Arab Rep.,U / FI,12,12,22,0,0,0,22,22,12,0,0,22,32.0
+2013,Cyprus,Syrian Arab Rep.,G / FI,701,0,562,1,122,71,139,333,930,0,123,210,32.0
+2013,Switzerland,Syrian Arab Rep.,G / FI,1665,0,1852,162,577,77,341,1157,2657,0,739,418,9.0
+2013,Canada,Syrian Arab Rep.,G / FI,404,0,517,440,0,35,14,489,435,0,440,49,19.0
+2013,Brazil,Syrian Arab Rep.,G / FI,67,58,297,291,0,0,3,294,70,0,291,3,17.0
+2013,Bulgaria,Syrian Arab Rep.,G / FI,370,0,4452,149,1862,9,366,2386,2500,2500,2011,375,3.0
+2013,Belgium,Syrian Arab Rep.,G / FI,938,0,944,213,1315,54,34,1616,378,0,1528,88,11.0
+2013,Australia,Syrian Arab Rep.,G / FI,67,0,139,60,0,1,0,61,138,0,60,1,29.0
+2013,Armenia,Syrian Arab Rep.,G / FI,340,340,285,429,0,0,154,583,42,42,429,154,24.0
+2013,Argentina,Syrian Arab Rep.,G / FI,9,0,122,119,0,0,0,119,12,0,119,0,31.0
+2014,United States,Syrian Arab Rep.,G / IN,1202,0,1564,652,0,38,130,820,2091,0,652,168,16.0
+2014,Ukraine,Syrian Arab Rep.,U / FI,0,0,7,0,0,0,6,6,NA,NA,0,6,27.0
+2014,Ukraine,Syrian Arab Rep.,G / FI,403,356,267,12,166,42,14,234,436,313,178,56,27.0
+2014,Turkey,Syrian Arab Rep.,U / FI,100,100,8366,8229,0,0,NA,8230,236,236,8229,NA,4.0
+2014,Thailand,Syrian Arab Rep.,U / FI,144,144,157,72,0,0,61,133,168,168,72,61,35.0
+2014,Sweden,Syrian Arab Rep.,G / FI,6474,0,30313,1759,14627,27,1791,18204,18680,0,16386,1818,2.0
+2014,Russian Federation,Syrian Arab Rep.,G / FI,357,357,473,NA,0,580,0,581,249,249,NA,580,13.0
+2014,Romania,Syrian Arab Rep.,G / FI,91,91,614,180,287,136,9,612,112,112,467,145,18.0
+2014,Poland,Syrian Arab Rep.,G / FI,100,0,100,115,17,0,62,194,34,0,132,62,30.0
+2014,Norway,Syrian Arab Rep.,G / FI,224,0,1980,575,669,16,175,1435,779,0,1244,191,14.0
+2014,Netherlands,Syrian Arab Rep.,G / FI,0,0,8748,349,5090,513,0,5952,2317,0,5439,513,5.0
+2014,Malaysia,Syrian Arab Rep.,U / FI,720,720,248,376,0,7,62,445,523,523,376,69,25.0
+2014,Malta,Syrian Arab Rep.,G / FI,102,0,305,6,360,NA,26,396,34,0,366,NA,21.0
+2014,Moldova,Syrian Arab Rep.,G / FI,27,27,61,22,40,0,NA,66,22,22,62,NA,33.0
+2014,Lebanon,Syrian Arab Rep.,U / FI,321,321,6825,6733,0,0,0,6733,413,413,6733,0,6.0
+2014,Jordan,Syrian Arab Rep.,U / FI,0,0,6066,5400,0,7,659,6066,0,0,5400,666,8.0
+2014,Italy,Syrian Arab Rep.,G / FI,278,0,504,229,84,176,NA,490,331,0,313,NA,22.0
+2014,Hungary,Syrian Arab Rep.,G / FI,383,0,6719,110,61,91,5991,6253,823,0,171,6082,28.0
+2014,Greece,Syrian Arab Rep.,G / FI,491,0,781,430,165,394,503,1492,175,0,595,897,23.0
+2014,United Kingdom,Syrian Arab Rep.,G / FI,641,0,2406,1391,31,112,183,1717,1329,0,1422,295,10.0
+2014,France,Syrian Arab Rep.,G / FI,279,0,3142,884,520,63,0,1467,1159,0,1404,63,12.0
+2014,Finland,Syrian Arab Rep.,G / FI,77,0,146,35,61,8,45,149,55,0,96,53,26.0
+2014,Spain,Syrian Arab Rep.,G / FI,743,0,1679,122,1040,9,0,1171,781,0,1162,9,20.0
+2014,Denmark,Syrian Arab Rep.,G / FI,77,0,7085,3122,864,137,0,4123,1388,0,3986,137,7.0
+2014,Germany,Syrian Arab Rep.,G / NA,6497,0,39332,19560,2998,10,2459,25027,20348,0,22558,2469,1.0
+2014,Czech Republic,Syrian Arab Rep.,G / FI,26,0,107,NA,71,0,7,79,54,0,NA,7,34.0
+2014,Cyprus,Syrian Arab Rep.,U / FI,12,12,8,9,0,0,7,16,NA,NA,9,7,32.0
+2014,Cyprus,Syrian Arab Rep.,G / FI,930,0,828,NA,926,0,0,929,829,0,NA,0,32.0
+2014,Switzerland,Syrian Arab Rep.,G / FI,2657,0,3768,916,1905,221,174,3216,3309,0,2821,395,9.0
+2014,Canada,Syrian Arab Rep.,G / FI,435,0,538,685,0,27,18,730,177,0,685,45,19.0
+2014,Brazil,Syrian Arab Rep.,G / FI,119,0,1362,1405,0,0,0,1405,76,76,1405,0,17.0
+2014,Bulgaria,Syrian Arab Rep.,G / FI,2500,2500,6254,4821,1585,15,1109,7530,2510,2510,6406,1124,3.0
+2014,Belgium,Syrian Arab Rep.,G / FI,378,0,2524,1261,444,30,37,1772,727,0,1705,67,11.0
+2014,Australia,Syrian Arab Rep.,G / FI,151,0,77,46,0,7,0,53,172,0,46,7,29.0
+2014,Armenia,Syrian Arab Rep.,G / FI,42,42,50,65,0,0,18,83,9,9,65,18,24.0
+2014,Argentina,Syrian Arab Rep.,G / FI,12,0,91,74,0,0,7,81,22,0,74,7,31.0
+2015,United States,Syrian Arab Rep.,G / IN,2109,NA,1004,581,NA,34,162,777,2464,NA,581,196,16.0
+2015,Ukraine,Syrian Arab Rep.,U / FI,NA,NA,27,9,NA,0,7,16,12,12,9,7,27.0
+2015,Ukraine,Syrian Arab Rep.,G / FI,436,313,136,5,58,134,10,207,365,268,63,144,27.0
+2015,Turkey,Syrian Arab Rep.,U / FI,283,283,NA,NA,NA,NA,NA,NA,283,283,NA,NA,4.0
+2015,Thailand,Syrian Arab Rep.,U / FI,168,168,177,36,NA,NA,66,102,243,243,36,NA,35.0
+2015,Sweden,Syrian Arab Rep.,G / FI,18680,0,50891,1903,16383,37,2046,20369,48714,0,18286,2083,2.0
+2015,Russian Federation,Syrian Arab Rep.,G / FI,249,249,337,0,0,391,0,391,195,195,0,391,13.0
+2015,Romania,Syrian Arab Rep.,G / FI,112,112,541,144,195,229,8,576,96,96,339,237,18.0
+2015,Poland,Syrian Arab Rep.,G / FI,34,NA,286,203,NA,NA,90,297,36,NA,203,NA,30.0
+2015,Norway,Syrian Arab Rep.,G / FI,779,0,10517,1354,188,7,659,2208,9069,0,1542,666,14.0
+2015,Netherlands,Syrian Arab Rep.,G / FI,2317,NA,18677,7601,114,577,231,8523,12712,NA,7715,808,5.0
+2015,Malaysia,Syrian Arab Rep.,U / FI,523,523,511,54,NA,NA,151,205,829,829,54,NA,25.0
+2015,Malta,Syrian Arab Rep.,G / FI,34,NA,398,17,265,NA,16,299,156,0,282,NA,21.0
+2015,Moldova,Syrian Arab Rep.,G / FI,22,22,55,20,37,NA,10,69,8,8,57,NA,33.0
+2015,Lebanon,Syrian Arab Rep.,U / FI,413,413,9059,9062,NA,NA,399,9461,11,11,9062,NA,6.0
+2015,Jordan,Syrian Arab Rep.,U / FI,0,0,7413,7367,0,0,46,7413,0,0,7367,46,8.0
+2015,Italy,Syrian Arab Rep.,G / FI,331,0,506,255,73,253,NA,583,246,NA,328,NA,22.0
+2015,Hungary,Syrian Arab Rep.,G / FI,823,NA,64587,19,140,108,46902,47169,18607,685,159,47010,28.0
+2015,Greece,Syrian Arab Rep.,G / FI,175,NA,3316,2779,7,6,277,3069,445,NA,2786,283,23.0
+2015,United Kingdom,Syrian Arab Rep.,G / FI,1329,NA,2846,2011,42,213,250,2516,1648,NA,2053,463,10.0
+2015,France,Syrian Arab Rep.,G / FI,1159,NA,5124,1587,735,74,NA,2396,2542,NA,2322,NA,12.0
+2015,Finland,Syrian Arab Rep.,G / FI,55,0,836,106,21,NA,55,184,705,0,127,NA,26.0
+2015,Spain,Syrian Arab Rep.,G / FI,781,NA,5724,NA,NA,NA,NA,NA,3280,NA,NA,NA,20.0
+2015,Denmark,Syrian Arab Rep.,G / FI,1388,0,8608,4167,1550,111,NA,5828,795,0,5717,NA,7.0
+2015,Germany,Syrian Arab Rep.,G / NA,20348,0,158657,97656,197,22,4062,101937,76359,0,97853,4084,1.0
+2015,Czech Republic,Syrian Arab Rep.,G / FI,55,0,129,29,101,NA,20,150,42,0,130,NA,34.0
+2015,Cyprus,Syrian Arab Rep.,G / FI,1069,NA,908,33,1356,NA,100,1489,488,135,1389,NA,32.0
+2015,Switzerland,Syrian Arab Rep.,G / FI,3309,0,4745,1309,1972,421,122,3824,4462,0,3281,543,9.0
+2015,Canada,Syrian Arab Rep.,G / FI,177,NA,544,551,NA,13,6,570,227,NA,551,19,19.0
+2015,Brazil,Syrian Arab Rep.,G / FI,76,76,1610,532,NA,0,NA,532,1154,592,532,NA,17.0
+2015,Bulgaria,Syrian Arab Rep.,G / FI,2510,2510,5950,4520,802,66,2042,7430,1683,1683,5322,2108,3.0
+2015,Belgium,Syrian Arab Rep.,G / FI,727,0,10293,3443,430,57,27,3957,3864,0,3873,84,11.0
+2015,Australia,Syrian Arab Rep.,G / FI,180,0,87,NA,NA,113,7,123,129,0,NA,120,29.0
+2015,Armenia,Syrian Arab Rep.,U / FI,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,24.0
+2015,Armenia,Syrian Arab Rep.,G / FI,9,9,103,87,NA,NA,14,101,11,11,87,NA,24.0
+2015,Argentina,Syrian Arab Rep.,G / FI,22,NA,159,55,NA,19,9,83,98,9,55,28,31.0
