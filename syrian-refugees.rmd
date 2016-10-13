@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE,
                       dev = "svg",
                       fig.path = "figures/",
                       dpi = 96, fig.width = 480 / 96, fig.height = 480 / 96)
+options(knitr.table.format = "markdown")
 ```
 
 # Introduction
