@@ -7,9 +7,9 @@ Katharine MacIntosh
 
 I have included below all of the code, data sources and intermediate steps for Assignment 2.
 
-Original unprocessed datasets are available: .
+Original unprocessed datasets are available: [https://github.com/kmacintosh/syrian-refugees/tree/master/data](https://github.com/kmacintosh/syrian-refugees/tree/master/data).
 
-Intermediate datasets are available here: .
+Intermediate datasets are available here: [https://github.com/kmacintosh/syrian-refugees/tree/master/output](https://github.com/kmacintosh/syrian-refugees/tree/master/output).
 
 ## UNHCR Visualization Effectiveness
 
@@ -222,7 +222,7 @@ ggplot(country_totals,
         text = element_text(family = "Helvetica Neue Light")) 
 ```
 
-<img src="figures/prop-refugees-by-destination-1.svg" style="display: block; margin: auto;" />
+![](figures/prop-refugees-by-destination-1.svg)<!-- -->
 
 In addition, I need the total number of refugees accepted, and the proportion going to Canada, for each year. I'll put these numbers on the infographic in Illustrator.
 
@@ -277,7 +277,7 @@ ggplot(change_in_canada, aes(x = factor(year), y = total_recognized)) +
       text = element_text(family = "Helvetica Neue Light")) 
 ```
 
-<img src="figures/changing-canada-1.svg" style="display: block; margin: auto;" />
+![](figures/changing-canada-1.svg)<!-- -->
 
 ## Comparing countries in 2016
 
@@ -306,7 +306,7 @@ refugees_2016 %>%
     guides(fill = "none")
 ```
 
-<img src="figures/unnamed-chunk-7-1.svg" style="display: block; margin: auto;" />
+![](figures/unnamed-chunk-7-1.svg)<!-- -->
 
 ## Map of provinces accepting refugees
 
@@ -347,12 +347,12 @@ ggplot(can_prov_df) +
         text = element_text(family = "Helvetica Neue Light"))
 ```
 
-<img src="figures/unnamed-chunk-8-1.svg" style="display: block; margin: auto;" />
+![](figures/unnamed-chunk-8-1.svg)<!-- -->
 
 # Final Infographic
 
-![infographic](output/472_a2_ds-01.svg)
+[](output/472_a2_final-01.svg)
 
-#Acknowledgements
+# Acknowledgements
 
-I want to credit Matthew Strimas-Mackey for his very helpful instruction in R for this project.
+I want to credit Matthew Strimas-Mackey for his time and instruction in R for this project.
