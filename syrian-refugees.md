@@ -7,9 +7,9 @@ Katharine MacIntosh
 
 I have included below all of the code, data sources and intermediate steps for Assignment 2.
 
-Original unprocessed datasets are available: [https://github.com/kmacintosh/syrian-refugees/tree/master/data](https://github.com/kmacintosh/syrian-refugees/tree/master/data).
+Original unprocessed datasets are available at [https://github.com/kmacintosh/syrian-refugees/tree/master/data](https://github.com/kmacintosh/syrian-refugees/tree/master/data).
 
-Intermediate datasets are available here: [https://github.com/kmacintosh/syrian-refugees/tree/master/output](https://github.com/kmacintosh/syrian-refugees/tree/master/output).
+Intermediate datasets are available here [https://github.com/kmacintosh/syrian-refugees/tree/master/output](https://github.com/kmacintosh/syrian-refugees/tree/master/output).
 
 ## UNHCR Visualization Effectiveness
 
@@ -351,7 +351,7 @@ ggplot(can_prov_df) +
 
 # Final Infographic
 
-[](output/472_a2_final-01.svg)
+![](output/472_a2_final-01.svg)
 
 # Acknowledgements
 
